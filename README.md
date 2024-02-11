@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHANDU32455
+- 👋 Hi, I’m CHANDU
 - 👀 I’m interested in exploring technological things like coding,databases,apks,etc
 - 🌱 I’m currently improving skills for my career. 
 - 💞️ I’m looking to collaborate on technlogy related issues(computer science related)
